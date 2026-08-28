@@ -5,3 +5,8 @@ h1{
 a{
     text-decoration: none;
 }
+
+#knapp{
+    width:20rem;
+    height:20rem;
+}
